@@ -9,7 +9,7 @@
   <li>Create visualisations using Power BI to represent HR data, particularly focusing on gender related KPI's</li>
   <li>Identifying potential root causes for the slow progress in achieving gender balance at each job level </li>
 </ul>
-<b>Finding based on Analysis</b>-
+<b>Findings based on Analysis</b>-
 <ul>
   <li>In terms of hiring, % of women hired is decent enough, only in sales and marketing department , %of female recruited are less that too for positions of junior officer and manager level. Thus this can be worked upon.</li>
  <li>In terms of FY 21 Promotions, in sales & Marketing department, despite of equal FY20 Avg performance rating of men and women, females are not getting promoted & this disparity can be seen at all job levels. Also for operations department females constitute 40% of promotions, due to promotional issues at manager level.</li>
