@@ -11,7 +11,6 @@
   <li>Create visualisations using Power BI to represent HR data, particularly focusing on gender related KPI's</li>
   <li>Identifying potential root causes for the slow progress in achieving gender balance at each job level </li>
 </ul>
-<br>
 <b>Finding based on Analysis</b>-
 <ul>
   <li>In terms of hiring, % of women hired is decent enough, only in sales and marketing department , %of female recruited are less that too for positions of junior officer and manager level. Thus this can be worked upon.</li>
@@ -20,7 +19,6 @@
  
 <li>Analysing Leavers data indicates that #leavers and promotion rate are inversaly proportional. Also female in age group of 40-49 are resigning more.</li>
 </ul>
-![Hiring Data](https://github.com/nehadahiya2801/HR-Analytics-Dashboard/assets/155832334/18f54240-e87d-477e-aadf-05bcba0ce548)
 
 
 
