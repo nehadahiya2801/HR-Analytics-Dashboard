@@ -19,6 +19,9 @@
  
 <li>Analysing Leavers data indicates that #leavers and promotion rate are inversaly proportional. Also female in age group of 40-49 are resigning more.</li>
 </ul>
+![Hiring Data](https://github.com/nehadahiya2801/HR-Analytics-Dashboard/assets/155832334/5dd748da-ae9a-4791-bb43-3b26a03fd0ca)
+ha
+
 
 
 
