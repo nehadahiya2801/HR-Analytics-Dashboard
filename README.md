@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 <br>
-<b> Problem statement </b> - Human Resources at PwC's Tealecom client is highly into diversity and inclusion as they need a workforce of diverse talents and backgrounds to succed in an increasingly complex and heterogenous world. They have been working hard to improve gender imbalance at executive mangement level, but they're not seeing any progress.
+<b> Problem statement </b> - Human Resources at PwC's Telecom client is highly into diversity and inclusion as they need a workforce of diverse talents and backgrounds to succed in an increasingly complex and heterogenous world. They have been working hard to improve gender imbalance at executive mangement level, but they're not seeing any progress.
 <br>
 <br>
 <b>What I'll do - </b>
